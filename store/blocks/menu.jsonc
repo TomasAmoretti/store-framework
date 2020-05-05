@@ -9,12 +9,7 @@
       "orientation": "horizontal"
     }
   },
-  "vtex.menu@2.x:submenu#major": {
-    "children": [
-      "vtex.menu@2.x:menu#major"
-    ]
-  },
-  "vtex.menu@2.x:menu#major": {
+  "menu-item#major-appliances":{
     "props": {
       "orientation": "vertical"
     },
@@ -24,6 +19,12 @@
       "menu-item#washers"
     ]
   },
+  "vtex.menu@2.x:submenu#major": {
+    "children": [
+      "vtex.menu@2.x:menu#major"
+    ]
+  },
+  
   "vtex.menu@2.x:submenu#small": {
     "children": [
       "vtex.menu@2.x:menu#small"
