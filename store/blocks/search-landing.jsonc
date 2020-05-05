@@ -13,6 +13,8 @@
     },
     "search-result-layout.customQuery":{
         "props":{
+            "minWidth": "100%",
+            "src": "https://lh3.googleusercontent.com/proxy/KRq2eRkxRdlU4VkxvmdUoNGADWvi0ZuqywsVNZgLPjQMvpKWIl-K3egdQLwE1y6rSy2YneKFi5et6sV3K0_ae7klGCk1hsKg7eXaa_zZmugYXticWwkaNvlR-t02ewBrDcTGlQ",
             "maxItemsPerPage": "8",
             "orderByField": "OrderByReleaseDateDESC",
             "hideUnavailableItems": true,
