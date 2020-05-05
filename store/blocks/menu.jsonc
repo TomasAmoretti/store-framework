@@ -10,7 +10,7 @@
     }
   },
   "menu-item#major-appliances":{
-    "blocks": [
+    "children": [
       "vtex.menu@2.x:submenu#major"
     ]
   },
@@ -24,7 +24,6 @@
       "orientation": "vertical"
     },
     "children": [
-      "menu-item#major-appliances",
       "menu-item#refrigerators",
       "menu-item#ovens",
       "menu-item#washers"
