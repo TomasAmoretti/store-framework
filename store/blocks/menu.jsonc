@@ -1,15 +1,15 @@
 {
   "vtex.menu@2.x:menu#categories": {
     "children": [
-      "vtex.menu@2.x:submenu#major",
-      "vtex.menu@2.x:submenu#small",
-      "vtex.menu@2.x:submenu#electronics"
+      "menu-item#major-appliances",
+      "menu-item#small-appliances",
+      "menu-item#electronics"
     ],
     "props": {
       "orientation": "horizontal"
     }
   },
-  "vtex.menu@2.x:submenu#major": {
+  "menu-item#major-appliances": {
     "children": [
       "vtex.menu@2.x:menu#major"
     ]
@@ -24,7 +24,7 @@
       "menu-item#washers"
     ]
   },
-  "vtex.menu@2.x:submenu#small": {
+  "menu-item#small-appliances": {
     "children": [
       "vtex.menu@2.x:menu#small"
     ]
@@ -39,7 +39,7 @@
       "menu-item#coffee"
     ]
   },
-  "vtex.menu@2.x:submenu#electronics": {
+  "menu-item#electronics": {
     "children": [
       "vtex.menu@2.x:menu#electronics"
     ]
