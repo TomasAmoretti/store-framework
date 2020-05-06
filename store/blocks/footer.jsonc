@@ -40,20 +40,13 @@
             "showInColor": true
         }
     },
-    "social-networks": {
+    "social-networks":{
         "props": {
             "socialNetworks": [
-                {
-                    "name": "Facebook"
-                },
-                {
-                    "name": "Instragram"
-                },
-                {
-                    "name": "Twitter"
-                }
+              { "url": "https://facebook.com/foo", "name": "Facebook" },
+              { "url": "https://twitter.com/foo", "name": "Twitter" }
             ],
-            "showInColor": true
-        }
-    }
+            "showInColor":true
+          }
+      }
 }
