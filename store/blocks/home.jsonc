@@ -1,13 +1,26 @@
 {
   "store.home": {
     "blocks": [
-      "rich-text"
+      "info-card",
+      "shelf",
+      "shelf",
+      "shelf",
+      "shelf",
+      "shelf"
     ]
   },
-  "rich-text": {
+  "info-card": {
     "props": {
-      "text": "***Hola mundo!***",
-      "textPosition": "RIGHT"
+    "isFullModeStyle": true,
+    "textPosition": "center",
+    "imageUrl": "/arquivos/inforcard-home.jpg",
+    "headline": "Ecommerce Institute",
+    "subhead": "de Latinoamerica al Mundo",
+    "callToActionMode": "button",
+    "callToActionText": "Quienes somos",
+    "callToActionUrl": "/institucional/nosotros",
+    "textAlignment": "center",
+    "blockClass": "main"
     }
   }
 }

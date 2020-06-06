@@ -1,0 +1,13 @@
+/* vtex.store-header.css */
+
+/*.headerRowContainer{
+    background: grey;
+}*/
+
+.headerRowContainer--nav-menu{
+    background: grey;
+}
+
+.headerRowContainer--header{
+    background: #0aa6d6;
+}

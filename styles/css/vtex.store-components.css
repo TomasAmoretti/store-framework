@@ -1,0 +1,27 @@
+.infoCardContainer{
+    width: 100%;
+    min-height: 380px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.infoCardHeadline {
+    text-shadow: -1px 1px white;
+}
+
+.infoCardSubhead {
+    text-shadow: -1px 1px white;
+}
+
+.infoCardContainer--main {
+    background-color: grey;
+}
+
+.infoCardImageContainer{
+    width: auto;
+}
+
+.container{
+    padding-left: 0;
+    padding-right: 0;
+}

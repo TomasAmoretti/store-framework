@@ -1,0 +1,11 @@
+/* vtex.menu.css */
+
+.menuItem{
+    background: #072c75;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.styledLinkContent{
+    color: white;
+}
